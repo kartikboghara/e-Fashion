@@ -1,0 +1,1267 @@
+@media (max-width:1199px) and (min-width:991px) {
+
+    /* header */
+    .header-main .header-bottom {
+        margin: 12px 0;
+    }
+
+    .header-main .header-bottom .header-nev .left .logo {
+        padding: 10px;
+    }
+
+    .header-main .header-bottom .header-nev .mid ul li a {
+        padding: 15px 5px;
+    }
+
+    .header-main .header-bottom .header-nev .right .search span {
+        padding: 15px 0 12px 20px;
+    }
+
+    .header-main .header-bottom .header-nev .right .search input {
+        padding: 16px;
+    }
+
+    .header-main .header-bottom .header-nev .right span {
+        padding: 12px 0 12px 18px;
+    }
+
+    /* benner */
+
+    .benner-main .benner .img-contect {
+        top: 50%;
+        left: 1%;
+    }
+
+    .benner-main .benner .img-contect .heading {
+        font-size: 42px;
+        line-height: 42px;
+        padding-bottom: 14px;
+    }
+
+    .benner-main .benner .img-contect .contect {
+        font-size: 14px;
+    }
+
+    .benner-main .benner .img-contect .customer ul {
+        padding-top: 58px;
+    }
+
+    .benner-main .benner .img-contect .customer ul li {
+        padding-right: 36px;
+    }
+
+    .benner-main .benner .img-contect .customer ul li b {
+        font-size: 24px;
+    }
+
+    .benner-main .benner .img-contect .customer ul li span {
+        font-size: 12px;
+    }
+
+    /* brand-logo-main */
+
+    .brand-logo-main .container .brand-logo .item {
+        padding: 10px;
+    }
+
+    .zara img {
+        padding: 0 35px;
+        box-sizing: border-box;
+    }
+
+    /* dress style */
+
+    .main-dress-style .container .inner-dress-style .dress-style-bottom .bottom-style-top .style-img img {
+        width: 100%;
+        height: auto;
+        display: block;
+    }
+
+    .main-dress-style .container .inner-dress-style .dress-style-bottom .bottom-style-bottom .style-img img {
+        width: 100%;
+        height: auto;
+        display: block;
+    }
+
+    /* customer-section */
+
+    .main-customer .container .customer-top h2 {
+        padding-top: 55px;
+    }
+
+    /* footer */
+
+    .footer-main .footer-top .container .footer-top-inner .left {
+        font-size: 32px;
+    }
+
+    .footer-main .footer-top .container .footer-top-inner .right .email {
+        padding: 10px 16px;
+        margin-bottom: 10px;
+    }
+
+    .footer-main .footer-top .container .footer-top-inner .right .btn a {
+        padding: 10px 16px;
+    }
+}
+
+@media (max-width:991px) and (min-width:768px) {
+
+    /* header */
+    .header-main .header-bottom {
+        margin: 8px 0;
+    }
+
+    .header-main .header-bottom .header-nev .left {
+        width: 23%;
+    }
+
+    .header-main .header-bottom .header-nev .mid {
+        width: 100%;
+    }
+
+    .header-main .header-bottom .header-nev .mid ul li a {
+        padding: 12px 4px;
+    }
+
+    .header-main .header-bottom .header-nev .right span {
+        padding: 12px 0 12px 18px;
+    }
+
+    /* benner */
+
+    .benner-main .benner .img-contect {
+        top: 50%;
+        left: 1%;
+    }
+
+    .benner-main .benner .img-contect .heading {
+        font-size: 32px;
+        line-height: 34px;
+        padding-bottom: 10px;
+    }
+
+    .benner-main .benner .img-contect .contect {
+        font-size: 12px;
+        padding-bottom: 32px;
+    }
+
+    .benner-main .benner .img-contect a {
+        padding: 12px 34px;
+    }
+
+    .benner-main .benner .img-contect .customer ul {
+        padding-top: 32px;
+    }
+
+    .benner-main .benner .img-contect .customer ul li {
+        padding-right: 36px;
+    }
+
+    .benner-main .benner .img-contect .customer ul li b {
+        font-size: 24px;
+    }
+
+    .benner-main .benner .img-contect .customer ul li span {
+        font-size: 12px;
+    }
+
+    /* brand-logo-main */
+
+    .brand-logo-main {
+        padding: 18px 0;
+    }
+
+    .brand-logo-main .container .brand-logo .item {
+        padding: 12px;
+    }
+
+    .zara img {
+        padding: 0 22px;
+        box-sizing: border-box;
+    }
+
+    /* dress style */
+
+    .main-dress-style .container .inner-dress-style .dress-style-bottom {
+        padding-bottom: 36px;
+    }
+
+    /* customer-section */
+
+    .main-customer .container .customer-top h2 {
+        padding-top: 55px;
+        text-align: center;
+    }
+
+    .main-customer .container .customer-bottom .customer {
+        padding: 18px 20px;
+    }
+
+    .main-customer .container .customer-bottom .customer span {
+        padding-bottom: 10px;
+    }
+
+    .main-customer .container .customer-bottom .customer span i {
+        font-size: 12px;
+    }
+
+    .main-customer .container .customer-bottom .customer span b {
+        font-size: 16px;
+    }
+
+    .main-customer .container .customer-bottom .customer p {
+        font-size: 14px;
+    }
+
+
+    /* main-arrivals */
+
+    .section-heading h2 {
+        font-size: 36px;
+        padding: 24px 0;
+    }
+
+    .main-product .container .product-bottom .item-main .item p {
+        padding-top: 10px;
+        font-size: 16px;
+    }
+
+    .main-product .container .product-bottom .item-main .item p .icon i {
+        font-size: 10px;
+    }
+
+    .main-product .container .product-bottom .item-main .item p span b {
+        font-size: 10px;
+    }
+
+    .main-product .container .product-bottom .item-main .item p span {
+        font-size: 16px;
+    }
+
+    .main-product .container .product-bottom .item-main .item p .leas {
+        font-size: 16px;
+    }
+
+    .main-product .container .product-bottom .item-main .item p .discount {
+        font-size: 10px;
+    }
+
+    .main-product .container .viwe-button a {
+        padding: 10px 32px;
+    }
+
+    .main-product .container .viwe-button {
+        margin-bottom: 42px;
+    }
+
+
+    /* footer */
+
+    .footer-main .footer-top .container .footer-top-inner .left {
+        font-size: 24px;
+        text-align: left;
+    }
+
+    .footer-main .footer-top .container .footer-top-inner .right .email {
+        padding: 8px 16px;
+        margin-bottom: 10px;
+        width: 100%;
+    }
+
+    .footer-main .footer-top .container .footer-top-inner .right .btn a {
+        padding: 8px 75px;
+        width: 100%;
+    }
+
+    .footer-main .footer-top .container .footer-top-inner {
+        padding: 25px 64px;
+        position: unset;
+        margin-top: 24px;
+    }
+
+    /* footer-bottom */
+
+    .footer-main .footer-bottom .container .footer-bottom-inner .bottom-inner-top {
+        padding-top: 50px;
+    }
+
+    .footer-main .footer-bottom .container .footer-bottom-inner .bottom-inner-top .top-left {
+        width: 25%;
+        box-sizing: border-box;
+        padding-right: 50px;
+    }
+
+    .footer-main .footer-bottom .container .footer-bottom-inner .bottom-inner-top .top-left .heading {
+        font-size: 30px;
+    }
+
+    .footer-main .footer-bottom .container .footer-bottom-inner .bottom-inner-top .top-left .contect {
+        font-size: 12px;
+        padding-bottom: 20px;
+    }
+
+    .footer-main .footer-bottom .container .footer-bottom-inner .bottom-inner-top .top-left .icon li {
+        margin-right: 4px;
+    }
+
+    .footer-main .footer-bottom .container .footer-bottom-inner .bottom-inner-top .top-left .icon a {
+        width: 20px;
+        height: 20px;
+        font-size: 12px;
+        line-height: 20px;
+    }
+
+    .footer-main .footer-bottom .container .footer-bottom-inner .bottom-inner-top .top-right .top-right-inner .heading {
+        font-size: 16px;
+        padding-top: 10px;
+        padding-bottom: 20px;
+    }
+
+    .footer-main .footer-bottom .container .footer-bottom-inner .bottom-inner-top .top-right .top-right-inner li {
+        padding-top: 14px;
+    }
+
+    .footer-main .footer-bottom .container .footer-bottom-inner .bottom-inner-top .top-right .top-right-inner li a {
+        font-size: 14px;
+    }
+
+}
+
+@media (max-width:768px) and (min-width:639px) {
+
+    /* header */
+    .header-main .header-bottom {
+        margin: 8px 0;
+    }
+
+    .header-main .header-bottom .header-nev .left {
+        width: 27%;
+    }
+
+    .header-main .header-bottom .header-nev .mid {
+        width: 100%;
+    }
+
+    .header-main .header-bottom .header-nev .right {
+        width: 25%;
+    }
+
+    .header-main .header-bottom .header-nev .mid ul {
+        padding-right: 0;
+    }
+
+    .header-main .header-bottom .header-nev .mid ul li a {
+        padding: 12px 15px 0 0;
+    }
+
+    .header-main .header-bottom .header-nev .right .search {
+        width: 0;
+    }
+
+    .header-main .header-bottom .header-nev .right .search span {
+        padding: 14px 0 12px 55px
+    }
+
+    .header-main .header-bottom .header-nev .right .search input {
+        display: none;
+    }
+
+    .header-main .header-bottom .header-nev .right .header-icon {
+        padding-left: 83px;
+    }
+
+    /* benner */
+
+    .benner-main .benner .img-contect {
+        top: 50%;
+        left: 1%;
+    }
+
+    .benner-main .benner .img-contect .heading {
+        font-size: 28px;
+        line-height: 28px;
+        padding-bottom: 10px;
+    }
+
+    .benner-main .benner .img-contect .contect {
+        font-size: 12px;
+        line-height: 15px;
+        padding-bottom: 24px;
+    }
+
+    .benner-main .benner .img-contect a {
+        padding: 10px 20px;
+    }
+
+    .benner-main .benner .img-contect .customer ul {
+        padding-top: 24px;
+    }
+
+    .benner-main .benner .img-contect .customer ul li {
+        padding-right: 14px;
+    }
+
+    .benner-main .benner .img-contect .customer ul li b {
+        font-size: 18px;
+    }
+
+    .benner-main .benner .img-contect .customer ul li span {
+        font-size: 10px;
+    }
+
+    /* brand-logo-main */
+
+    .brand-logo-main {
+        padding: 14px 0;
+    }
+
+    .brand-logo-main .container .brand-logo .item {
+        padding: 10px;
+    }
+
+    .zara img {
+        padding: 0 18px;
+        box-sizing: border-box;
+    }
+
+    /* main-arrivals */
+
+    .section-heading h2 {
+        font-size: 30px;
+        padding: 20px 0;
+    }
+
+    .main-product .container .product-bottom .item-main {
+        display: flex;
+        flex-wrap: wrap;
+        margin-bottom: 36px;
+    }
+
+    .main-product .container .product-bottom .item-main .item {
+        width: 50%;
+        box-sizing: border-box;
+        padding: 10px 0;
+    }
+
+    .main-product .container .product-bottom .item-main .item p {
+        padding: 0 10px;
+        font-size: 16px;
+    }
+
+    .main-product .container .product-bottom .item-main .item p .icon i {
+        font-size: 10px;
+    }
+
+    .main-product .container .product-bottom .item-main .item p span b {
+        font-size: 10px;
+    }
+
+    .main-product .container .product-bottom .item-main .item p span {
+        font-size: 16px;
+        padding-top: 4px;
+    }
+
+    .main-product .container .product-bottom .item-main .item p .leas {
+        font-size: 16px;
+    }
+
+    .main-product .container .product-bottom .item-main .item p .discount {
+        font-size: 10px;
+    }
+
+    .main-product .container .viwe-button a {
+        padding: 10px 32px;
+    }
+
+    .main-product .container .viwe-button {
+        margin-bottom: 42px;
+    }
+
+    /* dress style */
+
+    .main-dress-style .container .inner-dress-style .dress-style-bottom {
+        padding-bottom: 36px;
+    }
+
+    /* customer-section */
+
+    .main-customer .container .customer-top h2 {
+        padding-top: 55px;
+        text-align: center;
+    }
+
+    .main-customer .container .customer-bottom .customer {
+        padding: 18px 20px;
+    }
+
+    .main-customer .container .customer-bottom .customer span {
+        padding-bottom: 10px;
+    }
+
+    .main-customer .container .customer-bottom .customer span i {
+        font-size: 12px;
+    }
+
+    .main-customer .container .customer-bottom .customer span b {
+        font-size: 16px;
+    }
+
+    .main-customer .container .customer-bottom .customer p {
+        font-size: 14px;
+    }
+
+    /* footer */
+
+    .footer-main .footer-top .container .footer-top-inner .left {
+        font-size: 18px;
+        text-align: left;
+    }
+
+    .footer-main .footer-top .container .footer-top-inner .right .email {
+        padding: 8px 16px;
+        margin-bottom: 10px;
+        width: 100%;
+    }
+
+    .footer-main .footer-top .container .footer-top-inner .right .btn a {
+        padding: 8px 69px;
+        width: 100%;
+        font-size: 14px;
+    }
+
+    .footer-main .footer-top .container .footer-top-inner {
+        padding: 6px 32px;
+        position: unset;
+        margin-top: 24px;
+    }
+
+    /* footer-bottom */
+
+    .footer-main .footer-bottom .container .footer-bottom-inner .bottom-inner-top {
+        padding-top: 50px;
+    }
+
+    .footer-main .footer-bottom .container .footer-bottom-inner .bottom-inner-top {
+        flex-wrap: wrap;
+    }
+
+    .footer-main .footer-bottom .container .footer-bottom-inner .bottom-inner-top .top-left {
+        width: 100%;
+        text-align: center;
+        box-sizing: border-box;
+        padding-right: 0;
+        padding-bottom: 10px;
+    }
+
+    .footer-main .footer-bottom .container .footer-bottom-inner .bottom-inner-top .top-left .heading {
+        font-size: 22px;
+        padding-bottom: 10px;
+    }
+
+    .footer-main .footer-bottom .container .footer-bottom-inner .bottom-inner-top .top-left .contect {
+        font-size: 14px;
+        padding-bottom: 10px;
+    }
+
+    .footer-main .footer-bottom .container .footer-bottom-inner .bottom-inner-top .top-right {
+        width: 100%;
+    }
+
+    .footer-main .footer-bottom .container .footer-bottom-inner .bottom-inner-top .top-right .top-right-inner .heading {
+        font-size: 16px;
+        padding: 10px 0;
+    }
+
+    .footer-main .footer-bottom .container .footer-bottom-inner .bottom-inner-top .top-right .top-right-inner li {
+        padding-top: 10px;
+    }
+
+    .footer-main .footer-bottom .container .footer-bottom-inner .bottom-inner-top .top-right .top-right-inner li a {
+        font-size: 14px;
+    }
+
+    .footer-main .footer-bottom .container .footer-bottom-inner .bottom-inner-bottom {
+        display: flex;
+        padding-bottom: 10px;
+        flex-wrap: wrap;
+    }
+
+    .footer-main .footer-bottom .container .footer-bottom-inner .bottom-inner-bottom .inner-bottom-left {
+        width: 100%;
+        text-align: center;
+    }
+
+    .footer-main .footer-bottom .container .footer-bottom-inner .bottom-inner-bottom .inner-bottom-right {
+        width: 100%;
+    }
+
+    .footer-main .footer-bottom .container .footer-bottom-inner .bottom-inner-bottom .inner-bottom-right .icon {
+        padding-top: 20px;
+        float: none;
+        text-align: center;
+    }
+}
+
+@media (max-width:639px) and (min-width:479px) {
+
+    /* header */
+    .header-main .header-top .top-contect span {
+        font-size: 12px;
+    }
+
+    .header-main .header-bottom {
+        margin: 8px 0;
+    }
+
+    .header-main .header-bottom .header-nev .left {
+        width: 40%;
+        padding-right: 100px;
+    }
+
+    .header-main .header-bottom .header-nev .left .logo {
+        display: flex;
+    }
+
+    .header-main .header-bottom .header-nev .left .logo a {
+        text-decoration: none;
+        color: #000;
+        padding-right: 10px;
+        padding-top: 5px;
+        display: block;
+    }
+
+    .header-main .header-bottom .header-nev .left .logo i {
+        display: block;
+    }
+
+    .header-main .header-bottom .header-nev .mid {
+        display: none;
+    }
+
+    .header-main .header-bottom .header-nev .right {
+        width: 25%;
+    }
+
+    .header-main .header-bottom .header-nev .mid ul {
+        padding-right: 0;
+    }
+
+    .header-main .header-bottom .header-nev .mid ul li a {
+        padding: 12px 15px 0 0;
+    }
+
+    .header-main .header-bottom .header-nev .right .search {
+        width: 0;
+    }
+
+    .header-main .header-bottom .header-nev .right .search span {
+        padding: 14px 0 12px 55px
+    }
+
+    .header-main .header-bottom .header-nev .right .search input {
+        display: none;
+    }
+
+    .header-main .header-bottom .header-nev .right .header-icon {
+        padding-left: 83px;
+    }
+
+    /* benner */
+
+    .benner-main .benner .img-contect {
+        top: 50%;
+        left: 1%;
+    }
+
+    .benner-main .benner .img-contect .heading {
+        font-size: 20px;
+        line-height: 22px;
+        padding-bottom: 5px;
+    }
+
+    .benner-main .benner .img-contect .contect {
+        font-size: 12px;
+        line-height: 14px;
+        width: 50%;
+        padding-bottom: 10px;
+    }
+
+    .benner-main .benner .img-contect a {
+        font-size: 12px;
+        padding: 5px 10px;
+    }
+
+    .benner-main .benner .img-contect .customer ul {
+        padding-top: 12px;
+    }
+
+    .benner-main .benner .img-contect .customer ul li {
+        padding-right: 14px;
+    }
+
+    .benner-main .benner .img-contect .customer ul li b {
+        font-size: 16px;
+    }
+
+    .benner-main .benner .img-contect .customer ul li span {
+        font-size: 10px;
+    }
+
+    /* brand-logo-main */
+
+    .brand-logo-main {
+        padding: 10px 0;
+    }
+
+    .brand-logo-main .container .brand-logo .item {
+        padding: 10px;
+    }
+
+    .zara img {
+        padding: 0 12px;
+        box-sizing: border-box;
+    }
+
+    /* main-arrivals */
+
+    .section-heading h2 {
+        font-size: 30px;
+        padding: 20px 0;
+    }
+
+    .main-product .container .product-bottom .item-main {
+        display: flex;
+        flex-wrap: wrap;
+        margin-bottom: 36px;
+    }
+
+    .main-product .container .product-bottom .item-main .item {
+        width: 50%;
+        box-sizing: border-box;
+        padding: 0 10px;
+    }
+
+    .main-product .container .product-bottom .item-main .item p {
+        padding: 10px 0;
+        font-size: 16px;
+    }
+
+    .main-product .container .product-bottom .item-main .item p .icon i {
+        font-size: 10px;
+    }
+
+    .main-product .container .product-bottom .item-main .item p span b {
+        font-size: 10px;
+    }
+
+    .main-product .container .product-bottom .item-main .item p span {
+        font-size: 16px;
+        padding-top: 4px;
+    }
+
+    .main-product .container .product-bottom .item-main .item p .leas {
+        font-size: 16px;
+    }
+
+    .main-product .container .product-bottom .item-main .item p .discount {
+        font-size: 10px;
+    }
+
+    .main-product .container .viwe-button a {
+        padding: 10px 32px;
+    }
+
+    .main-product .container .viwe-button {
+        margin-bottom: 42px;
+    }
+
+    /* dress style */
+
+    .main-dress-style .container .inner-dress-style .dress-style-bottom {
+        padding-bottom: 30px;
+    }
+
+    /* customer-section */
+
+    .main-customer .container .customer-top h2 {
+        padding-top: 36px;
+        text-align: center;
+    }
+
+    .main-customer .container .customer-bottom {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .main-customer .container .customer-bottom .customer {
+        padding: 18px 20px;
+        width: 50%;
+        margin: 0 0 10px 0;
+        box-sizing: border-box;
+    }
+
+    .main-customer .container .customer-bottom .customer span {
+        padding-bottom: 10px;
+    }
+
+    .main-customer .container .customer-bottom .customer span i {
+        font-size: 12px;
+    }
+
+    .main-customer .container .customer-bottom .customer span b {
+        font-size: 16px;
+    }
+
+    .main-customer .container .customer-bottom .customer p {
+        font-size: 14px;
+    }
+
+    /* footer */
+
+    .footer-main .footer-top .container .footer-top-inner {
+        padding: 10px 10px;
+        position: unset;
+        margin-top: 24px;
+        flex-wrap: wrap;
+    }
+
+    .footer-main .footer-top .container .footer-top-inner .left {
+        color: #FFF;
+        font-size: 22px;
+        font-weight: 700;
+        width: 100%;
+        text-align: center;
+    }
+    .footer-main .footer-top .container .footer-top-inner .right {
+        margin-top: 10px;
+        width: 100%;
+    }
+    .footer-main .footer-top .container .footer-top-inner .right .email {
+        width: 100%;
+        margin-bottom: 10px;
+        float: none;
+    }
+    .footer-main .footer-top .container .footer-top-inner .right .btn {
+        float: none;
+        width: 100%;
+    }
+    .footer-main .footer-top .container .footer-top-inner .right .btn a {
+        width: 100%;
+    }
+
+    /* footer-bottom */
+
+    .footer-main .footer-bottom .container .footer-bottom-inner .bottom-inner-top {
+        padding-top: 50px;
+    }
+
+    .footer-main .footer-bottom .container .footer-bottom-inner .bottom-inner-top {
+        flex-wrap: wrap;
+    }
+
+    .footer-main .footer-bottom .container .footer-bottom-inner .bottom-inner-top .top-left {
+        width: 100%;
+        text-align: center;
+        box-sizing: border-box;
+        padding-right: 0;
+        padding-bottom: 10px;
+    }
+
+    .footer-main .footer-bottom .container .footer-bottom-inner .bottom-inner-top .top-left .heading {
+        font-size: 22px;
+        padding-bottom: 10px;
+    }
+
+    .footer-main .footer-bottom .container .footer-bottom-inner .bottom-inner-top .top-left .contect {
+        font-size: 14px;
+        padding-bottom: 10px;
+    }
+
+    .footer-main .footer-bottom .container .footer-bottom-inner .bottom-inner-top .top-right {
+        width: 100%;
+        flex-wrap: wrap;
+    }
+
+    .footer-main .footer-bottom .container .footer-bottom-inner .bottom-inner-top .top-right .top-right-inner {
+        width: 50%;
+        box-sizing: border-box;
+        padding-bottom: 10px;
+        padding-left: 20px;
+    }
+    .footer-main .footer-bottom .container .footer-bottom-inner .bottom-inner-top .top-right .top-right-inner .heading {
+        font-size: 16px;
+        padding: 10px 0;
+    }
+
+    .footer-main .footer-bottom .container .footer-bottom-inner .bottom-inner-top .top-right .top-right-inner li {
+        padding-top: 10px;
+    }
+
+    .footer-main .footer-bottom .container .footer-bottom-inner .bottom-inner-top .top-right .top-right-inner li a {
+        font-size: 14px;
+    }
+
+    .footer-main .footer-bottom .container .footer-bottom-inner .bottom-inner-bottom {
+        display: flex;
+        padding-bottom: 10px;
+        flex-wrap: wrap;
+    }
+
+    .footer-main .footer-bottom .container .footer-bottom-inner .bottom-inner-bottom .inner-bottom-left {
+        width: 100%;
+        text-align: center;
+    }
+
+    .footer-main .footer-bottom .container .footer-bottom-inner .bottom-inner-bottom .inner-bottom-right {
+        width: 100%;
+    }
+
+    .footer-main .footer-bottom .container .footer-bottom-inner .bottom-inner-bottom .inner-bottom-right .icon {
+        padding-top: 20px;
+        float: none;
+        text-align: center;
+    }
+}
+
+@media (max-width:479px) and (min-width:320px) {
+
+    /* header */
+    .header-main .header-top .top-contect span {
+        font-size: 10px;
+    }
+    .header-main .header-top .top-contect a {
+        font-size: 12px;
+    }
+    .header-main .header-top .top-contect a i {
+        display: none;
+    }
+    .header-main .header-bottom {
+        margin: 0;
+    }
+
+    .header-main .header-bottom .header-nev .left {
+        width: 40%;
+        padding-right: 30px;
+    }
+
+    .header-main .header-bottom .header-nev .left .logo {
+        display: flex;
+    }
+
+    .header-main .header-bottom .header-nev .left .logo a {
+        text-decoration: none;
+        color: #000;
+        padding-right: 10px;
+        padding-top: 5px;
+        display: block;
+    }
+
+    .header-main .header-bottom .header-nev .left .logo i {
+        display: block;
+        font-size: 18px;
+    }
+
+    .header-main .header-bottom .header-nev .mid {
+        display: none;
+    }
+
+    .header-main .header-bottom .header-nev .right {
+        width: 25%;
+    }
+
+    .header-main .header-bottom .header-nev .mid ul {
+        padding-right: 0;
+    }
+
+    .header-main .header-bottom .header-nev .mid ul li a {
+        padding: 12px 15px 0 0;
+    }
+
+    .header-main .header-bottom .header-nev .right .search {
+        width: 0;
+    }
+
+    .header-main .header-bottom .header-nev .right .search span {
+        padding: 14px 0 12px 55px
+    }
+
+    .header-main .header-bottom .header-nev .right .search input {
+        display: none;
+    }
+
+    .header-main .header-bottom .header-nev .right .header-icon {
+        padding-left: 83px;
+    }
+
+    /* benner */
+
+    .benner-main .benner .img-contect {
+        top: 50%;
+        left: 0%;
+    }
+
+    .benner-main .benner .img-contect .heading {
+        font-size: 14px;
+        line-height: 14px;
+        padding-bottom: 5px;
+    }
+
+    .benner-main .benner .img-contect .contect {
+        font-size: 8px;
+        line-height: 10px;
+        width: 50%;
+        padding-bottom: 5px;
+    }
+
+    .benner-main .benner .img-contect a {
+        font-size: 8px;
+        padding: 3px 6px;
+    }
+
+    .benner-main .benner .img-contect .customer ul {
+        padding-top: 6px;
+    }
+
+    .benner-main .benner .img-contect .customer ul li {
+        padding-right: 6px;
+    }
+
+    .benner-main .benner .img-contect .customer ul li b {
+        font-size: 10px;
+    }
+
+    .benner-main .benner .img-contect .customer ul li span {
+        font-size: 6px;
+    }
+
+    /* brand-logo-main */
+
+    .brand-logo-main {
+        padding: 0;
+    }
+
+    .brand-logo-main .container .brand-logo .item {
+        padding: 10px;
+    }
+
+    .zara img {
+        padding: 0 0 0 0;
+        box-sizing: border-box;
+    }
+
+    /* main-arrivals */
+
+    .section-heading h2 {
+        font-size: 30px;
+        padding: 20px 0;
+    }
+
+    .main-product .container .product-bottom .item-main {
+        display: flex;
+        flex-wrap: wrap;
+        margin-bottom: 36px;
+    }
+
+    .main-product .container .product-bottom .item-main .item {
+        width: 100%;
+        /* box-sizing: border-box; */
+        padding:  0 10px;
+    }
+    .main-product .container .product-bottom .item-main .item p {
+        padding: 10px 0;
+        font-size: 16px;
+        text-align: center;
+    }
+
+    .main-product .container .product-bottom .item-main .item p {
+        padding: 10px 0;
+        font-size: 16px;
+    }
+
+    .main-product .container .product-bottom .item-main .item p .icon i {
+        font-size: 10px;
+    }
+
+    .main-product .container .product-bottom .item-main .item p span b {
+        font-size: 10px;
+    }
+
+    .main-product .container .product-bottom .item-main .item p span {
+        font-size: 16px;
+        padding-top: 4px;
+    }
+
+    .main-product .container .product-bottom .item-main .item p .leas {
+        font-size: 16px;
+    }
+
+    .main-product .container .product-bottom .item-main .item p .discount {
+        font-size: 10px;
+    }
+
+    .main-product .container .viwe-button a {
+        padding: 10px 32px;
+    }
+
+    .main-product .container .viwe-button {
+        margin-bottom: 42px;
+    }
+
+    /* dress style */
+
+    .section-heading h2 {
+        font-size: 20px;
+        padding: 20px 0;
+    }
+    .main-dress-style .container .inner-dress-style .dress-style-bottom .bottom-style-top {
+        flex-wrap: wrap;
+    }
+    .main-dress-style .container .inner-dress-style .dress-style-bottom .bottom-style-bottom {
+        flex-wrap: wrap;
+    }
+    .main-dress-style .container .inner-dress-style .dress-style-bottom {
+        padding-bottom: 10px;
+    }
+
+    /* customer-section */
+
+    .main-customer .container .customer-top h2 {
+        padding-top: 36px;
+        text-align: center;
+    }
+
+    .main-customer .container .customer-bottom {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .main-customer .container .customer-bottom .customer {
+        padding: 18px 20px;
+        width: 100%;
+        margin: 0 0 10px 0;
+        box-sizing: border-box;
+    }
+
+    .main-customer .container .customer-bottom .customer span {
+        padding-bottom: 10px;
+    }
+
+    .main-customer .container .customer-bottom .customer span i {
+        font-size: 12px;
+    }
+
+    .main-customer .container .customer-bottom .customer span b {
+        font-size: 16px;
+    }
+
+    .main-customer .container .customer-bottom .customer p {
+        font-size: 14px;
+    }
+
+    /* footer */
+
+    .footer-main .footer-top .container .footer-top-inner {
+        padding: 10px 10px;
+        position: unset;
+        margin-top: 24px;
+        flex-wrap: wrap;
+    }
+
+    .footer-main .footer-top .container .footer-top-inner .left {
+        color: #FFF;
+        font-size: 18px;
+        font-weight: 700;
+        width: 100%;
+        text-align: center;
+    }
+    .footer-main .footer-top .container .footer-top-inner .right {
+        margin-top: 10px;
+        width: 100%;
+    }
+    .footer-main .footer-top .container .footer-top-inner .right .email {
+        width: 100%;
+        margin-bottom: 10px;
+        float: none;
+    }
+    .footer-main .footer-top .container .footer-top-inner .right .btn {
+        float: none;
+        width: 100%;
+    }
+    .footer-main .footer-top .container .footer-top-inner .right .btn a {
+        width: 100%;
+    }
+
+    /* footer-bottom */
+
+    .footer-main .footer-bottom .container .footer-bottom-inner .bottom-inner-top {
+        padding-top: 25px;
+    }
+
+    .footer-main .footer-bottom .container .footer-bottom-inner .bottom-inner-top {
+        flex-wrap: wrap;
+    }
+
+    .footer-main .footer-bottom .container .footer-bottom-inner .bottom-inner-top .top-left {
+        width: 100%;
+        text-align: center;
+        box-sizing: border-box;
+        padding-right: 0;
+        padding-bottom: 10px;
+    }
+
+    .footer-main .footer-bottom .container .footer-bottom-inner .bottom-inner-top .top-left .heading {
+        font-size: 22px;
+        padding-bottom: 10px;
+    }
+
+    .footer-main .footer-bottom .container .footer-bottom-inner .bottom-inner-top .top-left .contect {
+        font-size: 14px;
+        padding-bottom: 10px;
+    }
+
+    .footer-main .footer-bottom .container .footer-bottom-inner .bottom-inner-top .top-right {
+        width: 100%;
+        flex-wrap: wrap;
+    }
+
+    .footer-main .footer-bottom .container .footer-bottom-inner .bottom-inner-top .top-right .top-right-inner {
+        width: 50%;
+        box-sizing: border-box;
+        padding-bottom: 10px;
+        padding-left: 20px;
+    }
+    .footer-main .footer-bottom .container .footer-bottom-inner .bottom-inner-top .top-right .top-right-inner .heading {
+        font-size: 16px;
+        padding: 10px 0;
+    }
+
+    .footer-main .footer-bottom .container .footer-bottom-inner .bottom-inner-top .top-right .top-right-inner li {
+        padding-top: 10px;
+    }
+
+    .footer-main .footer-bottom .container .footer-bottom-inner .bottom-inner-top .top-right .top-right-inner li a {
+        font-size: 14px;
+    }
+
+    .footer-main .footer-bottom .container .footer-bottom-inner .bottom-inner-bottom {
+        display: flex;
+        padding-bottom: 10px;
+        flex-wrap: wrap;
+    }
+
+    .footer-main .footer-bottom .container .footer-bottom-inner .bottom-inner-bottom .inner-bottom-left {
+        width: 100%;
+        text-align: center;
+    }
+
+    .footer-main .footer-bottom .container .footer-bottom-inner .bottom-inner-bottom .inner-bottom-right {
+        width: 100%;
+    }
+
+    .footer-main .footer-bottom .container .footer-bottom-inner .bottom-inner-bottom .inner-bottom-right .icon {
+        padding-top: 10px;
+        float: none;
+        text-align: center;
+    }
+}
